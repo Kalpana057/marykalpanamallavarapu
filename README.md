@@ -2,7 +2,7 @@
 
 I'm [Mary Kalpana Mallavarapu](https://github.com/Kalpana057) 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mary-kalpana-mallavarapu-0b448b202/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/mary-kalpana-mallavarapu/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail)](mailto:kalpanamallavarapu123@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-blue?logo=github)](https://kalpana057.github.io/Portfolio/)
 
